@@ -1,0 +1,13 @@
+ <div class="container">
+        <h1>Find your BMW</h1>
+        <img src="" alt="" width="" height="" >
+        <p>Find a new car</p>
+        <button>Search now</button>
+        <img src="" alt="" width="" height="">
+        <p>Book a test drive</p>
+        <button>Book a test drive</button>
+        <img src="" alt="" width="" height="">
+        <p>Build your own</p>
+        <button>Configure and price</button>
+
+    </div>
